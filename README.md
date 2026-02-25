@@ -26,8 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 live stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3adcourt&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3adcourt&layout=compact&theme=dark)
+*Coming soon once i figure out how to do this part*
 
 ---
 
