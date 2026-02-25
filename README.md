@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- YOUR CUSTOM BANNER GIF HERE -->
-  <img src="[https://raw.githubusercontent.com/DeadCourt/DeadCourt/main/assets/your-banner.gif](https://github.com/D3adcourt/D3adcourt/blob/main/Scream%20GIF.gif)" width="100%" alt="DeadCourt Banner">
+  <img src="(https://github.com/D3adcourt/D3adcourt/blob/main/Scream%20GIF.gif)" width="100%" alt="DeadCourt Banner">
 
   <h1>👋 yo, i'm <strong>DeadCourt</strong></h1>
   <p><em>I will put you in my basement</em></p>
