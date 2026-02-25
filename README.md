@@ -31,9 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3adcourt&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
 
-### 🐍 my contribution snake
-![snake](https://raw.githubusercontent.com/D3adcourt/D3adcourt/output/github-contribution-grid-snake.svg)
-
 ---
 
 <div align="center">
