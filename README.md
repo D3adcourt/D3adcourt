@@ -7,7 +7,7 @@
   <p><em>I will put you in my basement</em></p>
 
   <a href="https://github.com/D3adcourt"><img src="https://img.shields.io/github/followers/DeadCourt?label=Follow&style=social" alt="followers"></a>
-  <a href="https://twitter.com/D3adcourt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+  <a href="https://twitter.com/TheDeadCourt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 
 </div>
 
