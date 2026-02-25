@@ -26,10 +26,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 live stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3adcourt&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3adcourt&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3adcourt&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3adcourt&layout=compact&theme=dark)
 
 ---
 
